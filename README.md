@@ -3,16 +3,13 @@
 **Overview:**
 Built an all-in-one Power BI dashboard analyzing Blinkit's business data, focusing on sales, delivery times, product categories, customer behavior, and revenue trends. The dashboard enables real-time tracking of KPIs and operational performance across multiple categories and locations.
 
-**🔍 Objective**
+**Objective**
 To analyze Blinkit’s delivery and sales performance through a unified dashboard, aiding strategic decisions in fast-paced, hyperlocal delivery markets.
 
-**🛠️ Tools & Technologies**
+**Tools & Technologies**
 Power BI
-
 Power Query
-
 DAX
-
 Excel (source dataset)
 
 **📁 Dataset Details**
@@ -94,4 +91,5 @@ Screenshot
 | `README.md`                                   | GitHub documentation            |
 | `slides.pptx`                                 | Summary slides for stakeholders |
 
-
+## Author
+Malini Roy Choudhury - Data Analyst | Freelancer
